@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm [Denis]([https://daniilshat.ru/])![]() 
+# Hi there, I'm [Denis]([(https://chat.mistral.ai/chat)])![https://github.com/DTRKN/DTRKN/edit/main/download.png]() 
 ### Computer science student, IT news writer from Russia 🇷🇺
 <!--
 **DTRKN/DTRKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
