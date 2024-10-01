@@ -1,4 +1,4 @@
-![](https://github.com/DTRKN/DTRKN/blob/main/download.png) 
+![](https://github.com/DTRKN/DTRKN/blob/main/decs1.png) 
 
 <div> 
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/postgresql/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
