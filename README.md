@@ -24,7 +24,7 @@
 ____________________________________________________________
 ### -- Базы данных --
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>
 </div>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
@@ -50,7 +50,7 @@ ____________________________________________________________
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
 </div>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="DjangoREST" alt="DjangoREST" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="DjangoREST" alt="DjangoREST" width="40" height="40"/>
 </div>
 
 ### -- Контейнеризация --
@@ -108,6 +108,10 @@ sadasdasdsadsa
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.8/src/app/ci.min.css"
+
+<i class="ci ci-postman ci-2x ci-invert"></i>
+<i class="ci ci-postman ci-10x ci-invert"></i>
+<i class="ci ci-postman ci-2x ci-invert"></i>
 />
 
 <i class="ci ci-postman ci-2x ci-invert"></i>
