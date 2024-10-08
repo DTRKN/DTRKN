@@ -17,4 +17,5 @@
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/telegram/telegram.svg" title="python-telegram-bot" alt="python-telegram-bot" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp; 
+  
 </div>
