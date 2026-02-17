@@ -2,9 +2,8 @@
 
 ## Full Stack Developer (AI & Python Focus) 👨‍💻
 
-[![](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/ВАШ_НИК)
-[![](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ВАШ_НИК)
-[![](https://img.shields.io/badge/Email-Mail-red?logo=gmail)](mailto:ВАША_ПОЧТА@gmail.com)
+[![](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/none)
+[![](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/DTRKN)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Обо мне и моем стеке
 
