@@ -27,33 +27,46 @@
 
 ### 💻 Как я пишу код
 
-```javascript
-const developer = {
-    pronouns: "Он / Ему",
-    askMeAbout: ["AI интеграции", "Web Dev", "Архитектура", "Оптимизация"],
-    
-    // Основной стек
-    technologies: {
-        backend: ["Python 3.11+", "FastAPI", "Pydantic v2"],
-        frontend: ["React 18", "Vite", "TypeScript"],
-        database: ["PostgreSQL 15", "SQLAlchemy 2.0", "Alembic"],
-        testing: ["Pytest", "Vitest"],
-        devops: ["Docker", "Docker Compose", "CI/CD"]
-    },
+```python
+class Developer:
+    def __init__(self):
+        # Основной профиль
+        self.status = "Открыт к предложениям" 
+        self.focus = ["AI интеграции", "Web Dev", "Архитектура", "Оптимизация"]
+        
+        # Технический стек
+        self.technologies = {
+            "backend": ["Python 3.11+", "FastAPI", "Pydantic v2"],
+            "frontend": ["React 18", "Vite", "TypeScript"],
+            "database": ["PostgreSQL 15", "SQLAlchemy 2.0", "Alembic"],
+            "testing": ["Pytest", "Vitest"],
+            "devops": ["Docker", "Docker Compose", "CI/CD"]
+        }
 
-    // Искусственный интеллект
-    ai_skills: [
-        "Разработка AI-агентов (Agentic Workflows)",
-        "Создание кастомных навыков (Skills/Tools)",
-        "Интеграция LLM (OpenAI Compatible)",
-        "RAG системы (Retrieval-Augmented Generation)",
-        "Промпт-инжиниринг и оркестрация моделей"
-    ],
+        # Искусственный интеллект
+        self.ai_skills = [
+            "Разработка AI-агентов (Agentic Workflows)",
+            "Создание кастомных навыков (Skills/Tools)",
+            "Интеграция LLM (OpenAI Compatible)",
+            "RAG системы (Retrieval-Augmented Generation)",
+            "Промпт-инжиниринг и оркестрация моделей"
+        ]
 
-    architecture: [
-        "Микросервисная архитектура",
-        "Серверless решения",
-        "Event-driven дизайн",
-        "Single page applications"
-    ]
-};
+        # Архитектурные подходы
+        self.architecture = [
+            "Микросервисная архитектура",
+            "Serverless решения",
+            "Event-driven дизайн",
+            "Высоконагруженные SPA"
+        ]
+
+    def code_principles(self):
+        return [
+            "Clean Code",
+            "SOLID принципы",
+            "Test-Driven Development (TDD)",
+            "Асинхронность везде, где возможно"
+        ]
+
+# Инициализация
+me = Developer()
